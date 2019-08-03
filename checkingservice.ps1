@@ -1,15 +1,1 @@
-pipeline {
-
-agent any
-    
-stages {
-
-  stage ('stage1'){
-    steps{
-      get-service
-    }
-
-  }
-
-}
-}
+Get-Service

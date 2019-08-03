@@ -1,0 +1,1 @@
+Stop-service -name "BITS"

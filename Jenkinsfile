@@ -18,6 +18,14 @@ stages {
 
   }
 
+    stage ('stage3'){
+    steps{
+      echo "stage 3 step changes "
+    }
+
+  }
+    
+    
 }
 }
 
